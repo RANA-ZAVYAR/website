@@ -1,0 +1,130 @@
+body{
+            
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.back{
+    background-color: rgb(223, 199, 199);
+    height: 600px;
+
+}
+nav{
+
+    width: auto;
+    display: block;
+    align-items: center;
+    margin: 10px ;
+    overflow: hidden;
+    font-weight: 200;
+
+}
+
+a{
+    text-decoration: none;
+}
+ul {
+
+    list-style-type: none;
+   
+    float: right;
+    display: block;
+    align-items: center;
+
+}
+li {
+    display: inline;
+    margin: 0px 20px;
+    font-size: 20px;
+    color: rgb(43, 42, 42);
+    
+    
+}
+.getbutton {
+
+    background-color: rgb(255, 81, 0);
+    padding: 15px ;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: inline-block;
+    color: white;
+
+
+}
+.icon {
+
+    width: 20px;
+
+}
+.containerone{
+    background-color: rgb(255, 81, 0);
+    display: inline-block;
+    color: white;
+    padding: 2px 55px;
+    position: relative;
+    top: -40px;
+    left: 20px;
+    margin: 0px 20px 0px 0px;
+}
+.containertwo{
+    background-color: rgb(0, 0, 0);
+    display: inline-block;
+    color: white;
+    padding: 2px 55px;
+    position: relative;
+    top: -40px;
+    left: 20px;
+
+}
+
+
+.containerthree{
+    width: 350px;
+   
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 40px 10px 10px;
+    text-align: center;
+    display: inline-block;
+    
+    
+   
+}
+.containerfo{
+    width: 350px;
+ 
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 40px 10px 10px;
+    text-align: center;
+    display: inline-block;
+    
+   
+}
+.containerfi{
+    width: 350px;
+    
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 40px 10px 10px;
+    text-align: center;
+    display: inline-block;
+    
+   
+}
+hr{
+    width: 60%;
+    margin: 0px;
+}
+table{
+   
+    margin: 20px;
+    
+}
+td{
+    width: 350px;
+}
